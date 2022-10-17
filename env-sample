@@ -1,0 +1,2 @@
+export TF_VAR_appId="aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa"
+export TF_VAR_password="********-****-****-****-************"
